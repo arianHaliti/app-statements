@@ -1,14 +1,3 @@
-# App Bank Statements steps
-
-Open dir of folder
-
- npm install
- cd client npm install
- cd ..
- 
- # Run application
- npm run app
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
